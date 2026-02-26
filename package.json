@@ -1,16 +1,16 @@
 {
-    "name": "kayzennotdev/bail",
+    "name": "vivlos/bail",
     "version": "1.7.3",
     "description": "Have A Nice Day",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/kayzennotdev/bail",
+    "homepage": "https://github.com/rezeralp-cyber/Vivlos",
     "repository": {
-        "url": "https://github.com/kayzennotdev/bail"
+        "url": "https://github.com/rezeralp-cyber/Vivlos"
     },
     "license": "MIT",
-    "author": "kayzennotdev",
+    "author": "vivlos",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
